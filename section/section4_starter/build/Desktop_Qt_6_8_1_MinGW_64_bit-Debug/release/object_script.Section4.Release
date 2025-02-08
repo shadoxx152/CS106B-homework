@@ -1,0 +1,12 @@
+release/change.o
+release/Circle.o
+release/crack.o
+release/Fraction.o
+release/knapsack.o
+release/lcs.o
+release/main.o
+release/sum.o
+release/MemoryDiagnostics.o
+release/TestDriver.o
+release/TestingGUI.o
+release/TextUtils.o

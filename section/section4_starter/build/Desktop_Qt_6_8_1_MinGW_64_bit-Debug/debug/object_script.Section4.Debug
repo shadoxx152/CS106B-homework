@@ -1,0 +1,12 @@
+debug/change.o
+debug/Circle.o
+debug/crack.o
+debug/Fraction.o
+debug/knapsack.o
+debug/lcs.o
+debug/main.o
+debug/sum.o
+debug/MemoryDiagnostics.o
+debug/TestDriver.o
+debug/TestingGUI.o
+debug/TextUtils.o

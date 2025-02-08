@@ -1,0 +1,10 @@
+debug/double.o
+debug/main.o
+debug/shuffle.o
+debug/squares.o
+debug/subsequence.o
+debug/zigzag.o
+debug/MemoryDiagnostics.o
+debug/TestDriver.o
+debug/TestingGUI.o
+debug/TextUtils.o

@@ -1,0 +1,10 @@
+release/double.o
+release/main.o
+release/shuffle.o
+release/squares.o
+release/subsequence.o
+release/zigzag.o
+release/MemoryDiagnostics.o
+release/TestDriver.o
+release/TestingGUI.o
+release/TextUtils.o

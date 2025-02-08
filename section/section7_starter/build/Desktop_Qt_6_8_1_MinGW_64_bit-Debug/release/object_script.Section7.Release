@@ -1,0 +1,13 @@
+release/balanced.o
+release/bst.o
+release/countleft.o
+release/equal.o
+release/findmax.o
+release/height.o
+release/main.o
+release/prune.o
+release/utility.o
+release/MemoryDiagnostics.o
+release/TestDriver.o
+release/TestingGUI.o
+release/TextUtils.o
